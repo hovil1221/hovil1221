@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hovil1221
+- 👋 Hi, I’m @hovi
 - 📫 How to reach me?
-hovi_hyw(wechat)
+hovi-hyw(wechat)
 
 <!---
 hovil1221/hovil1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
